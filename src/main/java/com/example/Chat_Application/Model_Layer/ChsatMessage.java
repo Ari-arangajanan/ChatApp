@@ -1,0 +1,1 @@
+package com.example.Chat_Application.Model_Layer;import lombok.Data;@Datapublic class ChsatMessage {}
