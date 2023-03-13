@@ -1,1 +1,1 @@
-package com.example.Chat_Application.Model_Layer;import lombok.Data;@Datapublic class ChsatMessage {}
+package com.example.Chat_Application.Model_Layer;import lombok.Data;import lombok.NoArgsConstructor;import lombok.ToString;@Data@NoArgsConstructor@ToStringpublic class ChsatMessage {    private String message;    private String fromLogin;}
